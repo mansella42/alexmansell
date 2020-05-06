@@ -1,0 +1,5 @@
+= Alex Mansell
+
+This is just a place for my personal portfolio.
+
+As of {localdate}, it is _in progress_.
