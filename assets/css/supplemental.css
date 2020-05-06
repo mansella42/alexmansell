@@ -1,0 +1,11 @@
+body.alex {
+    background-color: black;
+}
+
+h1.alex {
+    color: whitesmoke;
+}
+
+a.myLink:hover {
+    text-decoration: none;
+}
