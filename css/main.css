@@ -161,6 +161,19 @@ main {
     main#home h1 {
       margin-top: 20vh; }
 
+.describe {
+  padding: 10px;
+  font-size: 1.2rem;
+  margin-right: 5px;
+  background-color: whitesmoke;
+  color: #01886b;
+  border-radius: 6px;
+}
+
+.describe a {
+  color: #0dcca3;
+}
+
 .about-info {
   display: grid;
   grid-gap: 30px;
@@ -173,7 +186,7 @@ main {
     border: #07d3a721 3px solid; }
   .about-info .bio {
     grid-area: bio;
-    font-size: 1.3rem; }
+    font-size: 1.2rem; }
   .about-info .jobs {
     grid-area: jobs;
   }
@@ -256,7 +269,7 @@ main {
   padding: 1rem;
   background: #2b2b2b;
   color: #fff;
-  height: 60px; }
+  height: 60px;}
 
 @media screen and (min-width: 1171px) {
   .projects {
